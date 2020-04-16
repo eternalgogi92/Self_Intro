@@ -4,6 +4,6 @@
 
 ### Currently, I am working as an Image Algorithm Engineer at [Agora.io](https://www.agora.io/cn/).
 
-### In the near future, I hope I can become an outstanding algorithm engineer.
+### In the near future, I hope I can become an outstanding algorithm expert.
 
 ### Email: qiaoqi@agora.io
